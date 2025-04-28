@@ -1,0 +1,15 @@
+{
+  "name": "magic8ball-bot",
+  "version": "1.0.0",
+  "description": "A fun and feature-rich 8Ball Discord bot with economy and XP.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
